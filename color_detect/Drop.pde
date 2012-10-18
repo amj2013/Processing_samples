@@ -1,9 +1,3 @@
-// Learning Processing
-// Daniel Shiffman
-// http://www.learningprocessing.com
-
-// Example 10-10: The raindrop catching game
-
 class Drop {
   float x,y;   // Variables for location of raindrop
   float speed; // Speed of raindrop

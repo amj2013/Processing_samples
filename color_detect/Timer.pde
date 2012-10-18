@@ -1,9 +1,3 @@
-// Learning Processing
-// Daniel Shiffman
-// http://www.learningprocessing.com
-
-// Example 10-5: Object-oriented timer
-
 class Timer {
  
   int savedTime; // When Timer started
