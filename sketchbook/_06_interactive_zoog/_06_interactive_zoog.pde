@@ -28,7 +28,7 @@ ellipse(mouseX+19,mouseY-30,16,32);
 //The eye color is determined by the mouse location.
 // Draw Zoog's legs
 stroke(0);
-line(mouseX-10,mouseY+50,pmouseX-10,pmouseY+60);
+line(mouseX-10,mouseY+50,pmouseX-10,pmouseY+60);//previousx and y
 line(mouseX+10,mouseY+50,pmouseX+10,pmouseY+60);
 }
 void mousePressed() {
