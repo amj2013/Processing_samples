@@ -6,5 +6,5 @@ void draw(){
   stroke(0);
   fill(175);
   rectMode(CENTER);
-  rect(mouseX,mouseY,100,100);//get mouse coordinates
+  rect(mouseX,mouseY,100,100);//get mouse coordinates.
 }
