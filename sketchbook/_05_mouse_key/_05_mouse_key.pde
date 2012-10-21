@@ -11,5 +11,5 @@ void mousePressed(){
   rect(mouseX,mouseY,16,16);
 }
 void keyPressed(){
-  background(255);
+  background(255);//keypressed
 }
